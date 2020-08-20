@@ -1,0 +1,35 @@
+{
+    "data": {
+        "faculties": [
+            {
+                "short_name": "ФМТП",
+                "long_name": "Факультет міжнародної торгівлі та права"
+            },
+            {
+                "short_name": "ФТМ",
+                "long_name": "Факультет торгівлі та маркетингу"
+            }
+        ],
+        "courses": [
+            1,
+            2,
+            3
+        ],
+        "groups": [
+            "11",
+            "3"
+        ],
+        "disciplines": [
+            {
+                "long_name": "Основы Python",
+                "short_name": "ОП"
+            }
+        ],
+        "tasks": [
+            {
+                "name": "Лабораторная № 1"
+            }
+        ]
+    },
+    "controls": []
+}
